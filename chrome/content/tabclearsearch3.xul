@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<overlay id="tabclearsearch3"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script type="application/x-javascript" src="chrome://tabclearsearch3/content/tabclearsearch.js"/>
+
+    <script type="application/x-javascript">
+        window.addEventListener("load", tabclearsearch.init, false);
+    </script>
+</overlay>

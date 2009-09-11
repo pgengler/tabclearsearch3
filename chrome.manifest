@@ -1,0 +1,2 @@
+content     tabclearsearch3    jar:chrome/tabclearsearch3.jar!/content/
+overlay chrome://browser/content/browser.xul chrome://tabclearsearch3/content/tabclearsearch3.xul
